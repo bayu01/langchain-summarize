@@ -1,0 +1,15 @@
+
+
+[1m> Entering new  chain...[0m
+[32;1m[1;3m I need to research the effects of pressure on the human body
+Action: Search
+Action Input: effects of pressure on the human body[0m
+Observation: [36;1m[1;3mHigh blood pressure can cause many heart problems, including: Coronary artery disease. Arteries narrowed and damaged by high blood pressure have trouble supplying blood to the heart. Too little blood flow to the heart can lead to chest pain (angina), irregular heart rhythms (arrhythmias) or a heart attack.[0m
+Thought:[32;1m[1;3m I need to research the effects of pressure on the human body at great sea depths
+Action: Search
+Action Input: effects of pressure on the human body at great sea depths[0m
+Observation: [36;1m[1;3mAs you descend, water pressure increases, and the volume of air in your body decreases. This can cause problems such as sinus pain or a ruptured eardrum. As you ascend, water pressure decreases, and the air in your lungs expands. This can make the air sacs in your lungs rupture and make it hard for you to breathe.[0m
+Thought:[32;1m[1;3m I now know the final answer
+Final Answer: At great sea depths, the pressure can cause problems such as sinus pain, a ruptured eardrum, and difficulty breathing due to the air sacs in the lungs rupturing.[0m
+
+[1m> Finished chain.[0m
